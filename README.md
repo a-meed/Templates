@@ -2,5 +2,4 @@
 ---
 * > C# > [Quantum](https://github.com/a-meed/Templates/tree/main/CSharp%2FQuantum)
 ---
-* > [Python](https://github.com/a-meed/Templates/tree/main/Python)
-* * i
+* > [Python](https://github.com/a-meed/Templates/tree/main/Python) > [Pure](https://github.com/a-meed/Templates/tree/main/Python%2FPure)
