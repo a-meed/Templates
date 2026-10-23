@@ -1,5 +1,5 @@
 * > Java > [Android](https://github.com/a-meed/Templates/tree/main/Android)
 ---
-* > [C#](https://github.com/a-meed/Templates/tree/main/CSharp)
+* > C# > [Quantum](https://github.com/a-meed/Templates/tree/main/CSharp%2FQuantum)
 ---
 * > [Python](https://github.com/a-meed/Templates/tree/main/Python)
